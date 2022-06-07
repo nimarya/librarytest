@@ -2,6 +2,7 @@
     "name": "nimarya/librarytest",
     "description": "function echohello",
     "license": "MIT",
+    "version": "1.0.1",
     "require": {
         "php": ">=7.4"
     }
