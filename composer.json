@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nimarya\\Librarytest": "src/"
+            "Nimarya\\Librarytest\\": "src/"
         }
     },
     "require": {
