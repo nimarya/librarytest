@@ -2,6 +2,11 @@
     "name": "nimarya/librarytest",
     "description": "function echohello",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nimarya\\Librarytest": "src/"
+        }
+    },
     "require": {
         "php": ">=7.4"
     }

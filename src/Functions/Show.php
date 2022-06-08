@@ -1,6 +1,6 @@
 <?php
 
-namespace nimarya\Functions;
+namespace Nimarya\Librarytest;
 
 class Show
 {
